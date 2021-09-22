@@ -23,14 +23,14 @@ The app will regularly undergo changes with newer and better updates. Suggestion
 
 For windows:
 
-(To be executed in command prompt/cmt/terminal) 
+(To be executed in command prompt/cmt/terminal) <br />
 pip install speechRecognition <br />
 pip install pyttsx3 <br />
 pip install pywhatkit <br />
 pip install wikipedia <br />
 pip install pyaudio <br />
 
-(If there is a issue in installing PyAudio, use .whl file from link- <br />
+(If an issue occurs while installing PyAudio, use .whl file from link- <br />
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Or run the following: <br />
