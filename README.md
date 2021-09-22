@@ -25,9 +25,13 @@ For windows:
 (To be executed in command prompt/cmt/terminal) 
 
 pip install speechRecognition
+
 pip install pyttsx3
+
 pip install pywhatkit
+
 pip install wikipedia
+
 pip install pyaudio
 
 (If there is a issue in installing PyAudio, use .whl file from link-
@@ -35,24 +39,39 @@ pip install pyaudio
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Or run the following:
+
 pip install pipwin
+
 pipwin install pyaudio
 
-# Functions performed 
+# Functions performed
+
 Greets the user
 
 Asks for user's name
 
 Makes small talk with the user
+
 Searches information on wikipedia
+
 Searches information on google
+
 Searches and pulls up videos on youtube
+
 Lists out all its functionalities
+
 Tells the latest news
+
 Tells the current weather and temperature
+
 Tells the current date and time
+
 Tells user's current location
+
 Opens social media
+
 Tells jokes/puns
+
 Plays games
+
 Shut down the application
