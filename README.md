@@ -7,7 +7,6 @@ the disabled community by providing them a simple and easy access to using their
 been chosen in a way to provide support to those who often face difficulty navigating devices designed for the
 general masses.
 
-
 Capable is developed in the form of a Web-App to make it extremely user-friendly and accessible by people of all ages
 and abilities. However, it can also function without the internet, since  its speech recognition software does not
 use wifi to run for most general functionalities, except while using google-related services such as paying youtube
@@ -22,7 +21,9 @@ The app will regularly undergo changes with newer and better updates. Suggestion
 
 # Installing necessary libraries
 For windows:
-(To be executed in command prompt/cmt/terminal) ]
+
+(To be executed in command prompt/cmt/terminal) 
+
 pip install speechRecognition
 pip install pyttsx3
 pip install pywhatkit
@@ -30,6 +31,7 @@ pip install wikipedia
 pip install pyaudio
 
 (If there is a issue in installing PyAudio, use .whl file from link-
+
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 Or run the following:
@@ -39,8 +41,8 @@ pipwin install pyaudio
 # Functions performed 
 Greets the user
 
-
 Asks for user's name
+
 Makes small talk with the user
 Searches information on wikipedia
 Searches information on google
