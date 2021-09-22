@@ -7,6 +7,7 @@ the disabled community by providing them a simple and easy access to using their
 been chosen in a way to provide support to those who often face difficulty navigating devices designed for the
 general masses.
 
+
 Capable is developed in the form of a Web-App to make it extremely user-friendly and accessible by people of all ages
 and abilities. However, it can also function without the internet, since  its speech recognition software does not
 use wifi to run for most general functionalities, except while using google-related services such as paying youtube
@@ -37,6 +38,8 @@ pipwin install pyaudio
 
 # Functions performed 
 Greets the user
+
+
 Asks for user's name
 Makes small talk with the user
 Searches information on wikipedia
