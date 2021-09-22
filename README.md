@@ -1,4 +1,4 @@
-# Capable-AI-desktop-assistant
+# Capable: AI Virtual Assistant
 
 Capable is a voice assistant that simplifies and consolidates any and all tasks you may typically perform on your laptop.
 As the name suggests, the application recognizes and responds to users through voice commands.
