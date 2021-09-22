@@ -20,57 +20,37 @@ or can be recited by Capable, if requested.
 The app will regularly undergo changes with newer and better updates. Suggestions are always welcome!! 
 
 # Installing necessary libraries
+
 For windows:
 
 (To be executed in command prompt/cmt/terminal) 
+pip install speechRecognition <br />
+pip install pyttsx3 <br />
+pip install pywhatkit <br />
+pip install wikipedia <br />
+pip install pyaudio <br />
 
-pip install speechRecognition
-
-pip install pyttsx3
-
-pip install pywhatkit
-
-pip install wikipedia
-
-pip install pyaudio
-
-(If there is a issue in installing PyAudio, use .whl file from link-
-
+(If there is a issue in installing PyAudio, use .whl file from link- <br />
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
-Or run the following:
-
-pip install pipwin
-
-pipwin install pyaudio
+Or run the following: <br />
+pip install pipwin <br />
+pipwin install pyaudio <br />
 
 # Functions performed
 
-Greets the user <br />
-Asks for user's name
-
-Makes small talk with the user
-
-Searches information on wikipedia
-
-Searches information on google
-
-Searches and pulls up videos on youtube
-
-Lists out all its functionalities
-
-Tells the latest news
-
-Tells the current weather and temperature
-
-Tells the current date and time
-
-Tells user's current location
-
-Opens social media
-
-Tells jokes/puns
-
-Plays games
-
-Shut down the application
+* Greets the user <br />
+Asks for user's name <br />
+Makes small talk with the user <br />
+Searches information on wikipedia <br />
+Searches information on google <br />
+Searches and pulls up videos on youtube <br />
+Lists out all its functionalities <br />
+Tells the latest news <br />
+Tells the current weather and temperature <br />
+Tells the current date and time <br />
+Tells user's current location <br />
+Opens social media <br />
+Tells jokes/puns <br />
+Plays games <br />
+Shut down the application <br />
