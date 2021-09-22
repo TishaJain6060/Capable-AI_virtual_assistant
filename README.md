@@ -46,8 +46,7 @@ pipwin install pyaudio
 
 # Functions performed
 
-*Greets the user
-
+Greets the user <br />
 Asks for user's name
 
 Makes small talk with the user
