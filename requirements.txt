@@ -1,7 +1,8 @@
 # This file is used by pip to install required python packages
 # Usage: pip install -r requirements.txt
 
-certifi==2020.12.5
+pyowm==2.7.1
+BeautifulSoup==4.9.3
 flask==1.1.2
 google-api-core[grpc]==1.24.1
 google-auth==1.24.0
