@@ -40,17 +40,20 @@ pipwin install pyaudio <br />
 # Functions performed
 
 * Greets the user <br />
-Asks for user's name <br />
-Makes small talk with the user <br />
-Searches information on wikipedia <br />
-Searches information on google <br />
-Searches and pulls up videos on youtube <br />
-Lists out all its functionalities <br />
-Tells the latest news <br />
-Tells the current weather and temperature <br />
-Tells the current date and time <br />
-Tells user's current location <br />
-Opens social media <br />
-Tells jokes/puns <br />
-Plays games <br />
-Shut down the application <br />
+* Asks for user's name <br />
+* Makes small talk with the user <br />
+* Searches information on wikipedia <br />
+* Searches information on google <br />
+* Searches and pulls up videos on youtube <br />
+* Lists out all its functionalities <br />
+* Tells the latest news <br />
+* Tells the current weather and temperature <br />
+* Tells the current date and time <br />
+* Tells user's current location <br />
+* Opens social media <br />
+* Tells jokes/puns <br />
+* Plays games <br />
+* Shut down the application <br />
+
+# User Manual
+https://docs.google.com/presentation/d/1ZYMBAOZ2NLbEGeNJZhx1HsDatZIecr4L6wePFxtv-vM/edit#slide=id.p
