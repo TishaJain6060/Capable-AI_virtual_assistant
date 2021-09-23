@@ -56,4 +56,4 @@ pipwin install pyaudio <br />
 * Shut down the application <br />
 
 # User Manual
-https://docs.google.com/presentation/d/1ZYMBAOZ2NLbEGeNJZhx1HsDatZIecr4L6wePFxtv-vM/edit#slide=id.p
+https://docs.google.com/presentation/d/1ZYMBAOZ2NLbEGeNJZhx1HsDatZIecr4L6wePFxtv-vM/edit?usp=sharing
