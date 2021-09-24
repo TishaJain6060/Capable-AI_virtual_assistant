@@ -57,3 +57,8 @@ pipwin install pyaudio <br />
 
 # User Manual
 https://docs.google.com/presentation/d/1ZYMBAOZ2NLbEGeNJZhx1HsDatZIecr4L6wePFxtv-vM/edit?usp=sharing
+
+# Youtube video
+for complete demo, check out: https://www.youtube.com/watch?v=VpfEQipAUIs&t=2s
+
+
